@@ -16,12 +16,12 @@
 ---
 
 ### 📈 Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harisivams&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisivams&layout=compact&theme=radical)  
 
 ---
 
 ### 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harisivams/)  
 - 💻 [Portfolio](https://YourPortfolio.com)  
 - ✉️ Email: your.email@example.com  
